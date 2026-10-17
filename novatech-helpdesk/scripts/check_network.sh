@@ -11,3 +11,4 @@ else
     echo "Hay kiem tra Wi-Fi, cap mang hoac cau hinh mang." >&2
     exit 1
 fi
+Network check started.
