@@ -13,6 +13,7 @@ Dự án mô phỏng một bộ công cụ hỗ trợ kiểm tra nhanh máy ch�
 - Lưu cấu hình ứng dụng trong `config/app.conf`.
 - Cung cấp tài liệu cài đặt và xử lý sự cố.
 - Giữ thư mục `logs/` trong Git nhưng không theo dõi log thực tế.
+- Application configuration validation
 
 ## Cấu trúc chính
 
