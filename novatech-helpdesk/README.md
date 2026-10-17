@@ -50,3 +50,4 @@ Sau khi xem code, hãy tự thực hành các bước sau:
 5. Kết nối repository với GitHub khi đã sẵn sàng.
 
 Không đưa thông tin bí mật vào `.env` hoặc commit file log thật. File `.env.example` chỉ chứa tên biến và giá trị mẫu an toàn.
+Temporary notice
