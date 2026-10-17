@@ -1,0 +1,9 @@
+# Local environment variables
+.env
+!.env.example
+
+# Runtime log files
+*.log
+
+# Node.js dependencies
+node_modules/
