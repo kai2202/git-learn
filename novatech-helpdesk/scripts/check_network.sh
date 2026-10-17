@@ -11,4 +11,9 @@ else
     echo "Hay kiem tra Wi-Fi, cap mang hoac cau hinh mang." >&2
     exit 1
 fi
+<<<<<<< Updated upstream
 echo "Network check started."
+=======
+Network check started.
+Network check completed.
+>>>>>>> Stashed changes
